@@ -1,0 +1,14 @@
+.totale-price {
+    position: center;
+    bottom:0px;
+    width: 100%;
+    color: aliceblue;
+  }
+  .title {
+    color: rgb(21, 0, 206);
+  }
+  body {
+    background-image: url("https://storage.googleapis.com/eyp-wordpress/1/2020/06/recyclivre-e1594112128600.jpg");
+    padding-bottom: 30px;
+    
+  }
